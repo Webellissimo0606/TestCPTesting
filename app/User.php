@@ -28,4 +28,5 @@ class User extends Authenticatable
     //forth
     //fifth
     //sixth
+    //seventh
 }
